@@ -5,27 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce9eab8b-984b-4521-8f0f-6a9a42aaa0c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/pageAction/LoginAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/pageAction/NewcustomerAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/pageElements/LoginElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/pageElements/NewcustomerElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/stepdefination/Commonsteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/stepdefination/Loginsteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/stepdefination/Newcustomersteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/testrunner/Testrunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Login.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/org/example/pageAction/LoginAction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/org/example/pageElements/LoginElements.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/org/example/stepdefination/Commonsteps.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/org/example/stepdefination/Loginsteps.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/org/example/testrunner/Testrunner.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/pageElements/LoginElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/pageElements/LoginElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/testrunner/Testrunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/testrunner/Testrunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/testrunner/Testrunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/example/testrunner/Testrunner.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -224,6 +208,11 @@
           <properties class="java.util.concurrent.ExecutionException" package="java.util.concurrent" />
           <option name="timeStamp" value="2" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/example/testrunner/Testrunner.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>

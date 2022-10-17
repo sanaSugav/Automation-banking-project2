@@ -12,7 +12,7 @@ public class LoginElements {
 
     public WebElement userID;
 
-    @FindBy(xpath = "//input[@name='password']")
+    @FindBy(xpath ="//input[@name='password']")
 
     public WebElement password;
 
